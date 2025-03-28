@@ -4,7 +4,7 @@ VSCode: [![wakatime](https://wakatime.com/badge/github/Ayusummer/vite-project-le
 
 VSCodeInsider+ <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm.png" width="5%" /> : [![wakatime](https://wakatime.com/badge/user/d8c0c428-5367-4918-aaf6-f3ecf4063899/project/acaf25a4-7bcd-4466-8d2b-82740eca4f26.svg)](https://wakatime.com/badge/user/d8c0c428-5367-4918-aaf6-f3ecf4063899/project/acaf25a4-7bcd-4466-8d2b-82740eca4f26)
 
-[学习随笔](https://github.com/Ayusummer/DailyNotes/blob/main/%E5%89%8D%E7%AB%AF/VUE/Vue.md)
+[学习随笔](https://233official.github.io/dailynotes/%E5%89%8D%E7%AB%AF/VUE/Vue3/%E7%AE%80%E4%BB%8B.html)
 
 [Vue3_小满zs的博客-CSDN博客](https://blog.csdn.net/qq1195566313/category_11618172.html)
 
